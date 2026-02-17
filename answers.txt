@@ -1,0 +1,8 @@
+Q1: Why might we consider using Git?
+
+Answer: It is important to use git in the educational setting as it lays the framework for how industries utilize the service for efficient communication of code. I have worked in the Financial Technology industry for DTCC and we use this service all the time for group tasks so we can work on our own branches and push to a collaborative branch once a design idea is fully executed  
+
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It can be applied to financial technology in using predicted trends in quantity of money traded, type of asset being traded, previous company history given such types of trades to predict the risk of default which is vital in post trade services. 
