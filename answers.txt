@@ -6,3 +6,7 @@ Answer: It is important to use git in the educational setting as it lays the fra
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It can be applied to financial technology in using predicted trends in quantity of money traded, type of asset being traded, previous company history given such types of trades to predict the risk of default which is vital in post trade services. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to understanding deep learning and the basis of ML and other core data science skills to aid in my work in the financial technology industries.
